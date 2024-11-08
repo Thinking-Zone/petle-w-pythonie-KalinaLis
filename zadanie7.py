@@ -1,3 +1,6 @@
+import random
+
+pada = random.choice([True, False]) 
 zgaduj = True
 
 while zgaduj:
